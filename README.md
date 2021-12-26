@@ -4,11 +4,17 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: 
+import numpy
 ### Step 2: 
-### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+input l1
+### Step 3:
+input l2 
+
 ### Step 4: 
+Substitute the values in the distance formula 
+![formula](formula.jpg)
 ### Step 5: 
+print the output
 ### PROGRAM:
 ~~~
 import numpy as np
